@@ -1,0 +1,7 @@
+let age = 20;
+let active = true;
+if (age >= 18 && active) {
+    print("Allowed");
+} else {
+    print("Denied");
+}

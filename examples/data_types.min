@@ -1,0 +1,9 @@
+let age = 20;
+let price = 99.50;
+let name = "MiniLang";
+let active = true;
+
+print(age);
+print(price);
+print(name);
+print(active);

@@ -1,0 +1,4 @@
+let first = "Mini";
+let second = "Lang";
+let name = first + second;
+print(name);
